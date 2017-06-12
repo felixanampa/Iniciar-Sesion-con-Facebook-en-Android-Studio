@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_621cc23a78e650c57d11aa0d555a75cbfa81f063\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\toshiba\.android\build-cache\aba48a757697dc955171556b096637372f492533\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\pre-dexed\debug\classes_58a095c1f0e21412c78c38146aab3a949fd153db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\toshiba\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\pre-dexed\debug\glide-3.7.0_3e9bb7b15adbd3f3e9a17430f7a68abe61be740d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\4a67aad10529ee0cb7c307f8e669bc2922b77336\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb39fdddc5d1b2cc12dccb18f786c24141906cb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\6371dd06588374ad2cd414f2261a4ad4dc7cb381\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbec6d0f1c820205b393b4d5b750b36fd758adc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_890ef534cc7cfd5d0168d9f38162847fa26b69ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\eb560fafe9f0adb30b7f601a6a4725d5dd6f92a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f8191cd77300a8f4c01400713d1785c4684b6c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\204e47ae2be3848074d4a3c6e5750aa7b263bb61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f93f4583e7a2ee438c37be73f81bf9881bd9b4c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\b5c191dbfffadd123612f2c86df027c5c23d07de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e5e8d1402a9f4d26c9b935a2e378b8391a384b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\toshiba\.android\build-cache\77a6294d37e437b3eb8870148aeb7e2a517d9933\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\pre-dexed\debug\classes_c31a5c8f71e6cc00dd77fda172ffa16ed24ff5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\toshiba\.android\build-cache\2ec6c5015ca7b1a8fef7f7f93bca0488401da246\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\pre-dexed\debug\classes_143f866a6ae0dd14adc2eeb681651c9f5e61c42d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\aba48a757697dc955171556b096637372f492533\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58a095c1f0e21412c78c38146aab3a949fd153db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\77a6294d37e437b3eb8870148aeb7e2a517d9933\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c31a5c8f71e6cc00dd77fda172ffa16ed24ff5a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\2ec6c5015ca7b1a8fef7f7f93bca0488401da246\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_143f866a6ae0dd14adc2eeb681651c9f5e61c42d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_28204d7d6a307df5251fd11ea65dd79948e9eb12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\1cbac31091e86493d7486c8b3f0acd496a3f9651\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3af5ecab0353aeb73f487c6f86615609bd55fd21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\cb03fd9fbd06faa1c1c010201c1ffafcce26d622\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ed8f2a0b0b956cbe2598f7bc80e10948a65cc28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\16d5c990c33bce8157971fc171d3c8018790591b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_765d0cd78f635e31a9d52b91ad1a0b6ab18da5e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\toshiba\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_28204d7d6a307df5251fd11ea65dd79948e9eb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\toshiba\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1f75f77f7eccf36f101e9f3decb956334f51f58e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_1f75f77f7eccf36f101e9f3decb956334f51f58e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80dec462e3d41b0b34c5c493b0b60d7a9ae524d2">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_629afdc69d5950f1aced5d2480cca1431245813f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.android\build-cache\20ed1c97a729b071771887adcd8347001ccf4c41\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a115207d45378a7c882ef4d7192189d8c5eecf9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\toshiba\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\toshiba\Desktop\ProyFinal\InicioSesion\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_3e9bb7b15adbd3f3e9a17430f7a68abe61be740d\classes.dex" />
+    </item>
+
+</items>
